@@ -6,9 +6,9 @@ This repository contains the starting point for a live frontend engineering exer
 
 The land of Interviewtopia has a very basic, non-cumulative income-tax system:
 
-- If someone earns up to £10,000, they pay no income tax.
-- If they earn between £10,000 and £20,000, they pay 10% tax.
-- If they earn above £20,000, they pay 20% tax.
+- If someone earns up to $10,000, they pay no income tax.
+- If they earn between $10,000 and $20,000, they pay 10% tax.
+- If they earn above $20,000, they pay 20% tax.
 
 Build a browser-based calculator that accepts someone's income and returns the amount of tax they will pay.
 
